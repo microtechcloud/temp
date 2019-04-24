@@ -1509,9 +1509,17 @@ section
 	border-radius: 6px;
 	overflow: hidden;
 }
+
+.side_post_image_ div
+{
+	width: 250px;
+	height: 150;
+	border-radius: 6px;
+	overflow: hidden;
+}
 .side_post_image div img
 {
-	max-width: 100%;
+	max-width: 120%;
 }
 .side_post_content
 {
